@@ -1,0 +1,33 @@
+[
+  {
+    "titulo": "Salada de Frutas",
+    "imagem": "https://example.com/imagens/salada.jpg",
+    "ingredientes": [
+      "1 banana",
+      "1 maçã",
+      "1 laranja",
+      "1 colher de mel"
+    ],
+    "modo_preparo": [
+      "Corte todas as frutas em cubos.",
+      "Misture em um recipiente.",
+      "Regue com mel e sirva gelado."
+    ]
+  },
+  {
+    "titulo": "Omelete Proteica",
+    "imagem": "https://example.com/imagens/omelete.jpg",
+    "ingredientes": [
+      "2 ovos",
+      "1 colher de sopa de leite",
+      "1 pitada de sal",
+      "1 fatia de queijo branco"
+    ],
+    "modo_preparo": [
+      "Bata os ovos com o leite e o sal.",
+      "Despeje em uma frigideira antiaderente.",
+      "Adicione o queijo e dobre ao meio.",
+      "Cozinhe por 2 minutos de cada lado."
+    ]
+  }
+]
